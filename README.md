@@ -16,13 +16,12 @@ Right now, I’m especially focused on:
 
 Always open to learning and exploring new tech and creative avenues.
 
----
+<hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=twixt7-sys&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twixt7-sys&layout=compact&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=twixt7-sys&theme=tokyonight&hide_border=true" />
 </p>
----
+<hr>
 
 ### 💻 Tech Stack:
 
@@ -59,17 +58,19 @@ Always open to learning and exploring new tech and creative avenues.
 
 ---
 
-### 🧠 Currently Working On
-- A social media app using React Native + Flask backend
-- A 2D hyper-casual indie game in Godot & Pygame
-- A fantasy novel set in **Itheria**, with a custom-built magic system
+### ⚙️ Current Projects:
+    - A social media app using React Native + Flask backend
+    - A 2D hyper-casual indie game in Godot & Pygame
+
+### 📖 Currently Enrolled in:
+    - Bachelor of Science in Information Technology -- Legacy College of Compostela
+    - CS50's Web Development in Python -- Harvard
 
 ---
 
-### 🌐 Let's Connect
-- 🧵 [Portfolio Coming Soon]
-- 🐍 [CS50 Projects](https://cs50.harvard.edu/x)
-- 💬 DM me if you wanna talk code, lore, or cursed side projects
+### More about me:
+- 📔 Portfolio: [Coming soon!]
+- 📕 CS50 Projects: [Click here!](https://cs50.harvard.edu/x)
 
 ---
 
