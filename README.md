@@ -1,8 +1,15 @@
-# 👋 Hey, I'm Bloo
+# 👋 Hello, I'm Twixt!
 
-Fantasy writer ✨ | Software Dev Enthusiast 🧠 | IT Student 🧑‍💻  
-Currently building projects with purpose, depth, and clean code.  
-Into crafting fantasy realms and writing systems that make sense—both in fiction and in code.
+🎓 IT Student | 🎨 Multimedia Artist | 🌐 Aspiring Fullstack Developer
+
+Currently on a journey to build and refine my skill set across various disciplines.  
+Right now, I’m especially focused on:
+
+- Web Development  
+- Mobile Development  
+- UI Design
+
+Always open to learning and exploring new tech and creative avenues.
 
 ---
 
