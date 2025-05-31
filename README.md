@@ -2,7 +2,7 @@
 
 <hr>
 
-## 👤 Twixt Tamera  [21, Male]
+## 👤 Twixt Tamera   [ Male, 21 ]
 
     IT Student | Multimedia Artist | Aspiring Fullstack Developer
 
