@@ -1,5 +1,7 @@
-# 👋 Hello, I'm Twixt!
+# Welcome to my Profile!
 
+## Bloo
+**Male** | **21**  
 🎓 IT Student | 🎨 Multimedia Artist | 🌐 Aspiring Fullstack Developer
 
 Currently on a journey to build and refine my skill set across various disciplines.  
@@ -13,7 +15,7 @@ Always open to learning and exploring new tech and creative avenues.
 
 ---
 
-### 💻 Tech Stack I Use
+### 💻 Tech Stack:
 
 <!-- Backend -->
 **Backend**
