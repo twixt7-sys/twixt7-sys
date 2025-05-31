@@ -1,10 +1,8 @@
 # Welcome to my Profile!
 
-<p align="center">
-<h3>Bloo</h3>
-<h4>**Male** | **21**</h4>  
-<h5>🎓 IT Student | 🎨 Multimedia Artist | 🌐 Aspiring Fullstack Developer</h5>
-</p>
+<h3 align="center">Bloo</h3>
+<h4 align="center">**Male** | **21**</h4>  
+<h5 align="center">🎓 IT Student | 🎨 Multimedia Artist | 🌐 Aspiring Fullstack Developer</h5>
 
 Currently on a journey to build and refine my skill set across various disciplines.  
 Right now, I’m especially focused on:
