@@ -1,8 +1,10 @@
 # Welcome to my Profile!
 
+<p align="center">
 ## Bloo
 **Male** | **21**  
 🎓 IT Student | 🎨 Multimedia Artist | 🌐 Aspiring Fullstack Developer
+</p>
 
 Currently on a journey to build and refine my skill set across various disciplines.  
 Right now, I’m especially focused on:
