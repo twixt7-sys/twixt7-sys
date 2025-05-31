@@ -1,8 +1,10 @@
 # Welcome to my Profile!
 
-<h3>Bloo</h3>
-<h4>**Male** | **21**</h4>  
+<h5>Bloo</h5>
+<h5>Male | 21</h5>  
 <h5>🎓 IT Student | 🎨 Multimedia Artist | 🌐 Aspiring Fullstack Developer</h5>
+
+<hr>
 
 Currently on a journey to build and refine my skill set across various disciplines.  
 Right now, I’m especially focused on:
