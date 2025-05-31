@@ -74,6 +74,13 @@ Always open to learning and exploring new tech and creative avenues.
 
 ---
 
+### Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/twixt.tamera.35)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/busybloo7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/twixt-jasley-tamera-6aa355257/)
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bloo&label=Profile%20Views&color=blueviolet&style=flat" alt="bloo" />
+  <img src="https://komarev.com/ghpvc/?username=twixt7-sys&label=Profile%20Views&color=blueviolet&style=flat" alt="twixt7-sys" />
 </p>
