@@ -1,7 +1,7 @@
 # Welcome to my Profile!
 
-## Twixt Tamera  
-**Male** | **21**  
+<hr>
+## Twixt Tamera              **Male** | **21** 
 🎓 IT Student | 🎨 Multimedia Artist | 🌐 Aspiring Fullstack Developer
 <hr>
 
