@@ -53,9 +53,9 @@ Always open to learning and exploring new tech and creative avenues.
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=twixt7-sys&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=twixt7-sys&theme=tokyonight&hide_border=true" />
-	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twixt7-sys&layout=compact&theme=tokyonight&hide_border=true" />
+	<br/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=twixt7-sys&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
