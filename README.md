@@ -5,7 +5,6 @@
 ## 👤 Twixt Tamera   [ Male, 21 ]
 
     IT Student | Multimedia Artist | Aspiring Fullstack Developer
-
 <hr>
 
 Currently on a journey to build and refine my skill set across various disciplines.  
@@ -18,11 +17,11 @@ Right now, I’m especially focused on:
 Always open to learning and exploring new tech and creative avenues.
 
 ---
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=twixt7-sys&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twixt7-sys&layout=compact&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=twixt7-sys&theme=tokyonight&hide_border=true" />
-
+</p>
 ---
 
 ### 💻 Tech Stack:
@@ -57,12 +56,6 @@ Always open to learning and exploring new tech and creative avenues.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-<p align="center">
-
-</p>
 
 ---
 
