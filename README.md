@@ -47,7 +47,7 @@ Always open to learning and exploring new tech and creative avenues.
 
 ### More about me:
 - 📔 Portfolio: [Coming soon!]
-- 📕 CS50 Projects: [Click here!](https://cs50.harvard.edu/x)
+- 📕 CS50 Projects: [Click here!](https://submit.cs50.io/users/twixt7-sys)
 
 ---
 
