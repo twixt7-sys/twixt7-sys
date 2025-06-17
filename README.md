@@ -99,7 +99,7 @@ Always open to learning and exploring new tech and creative avenues.
 
 <tr>
   <td></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /></td>
   <td></td>
   <td></td>
   <td></td>
