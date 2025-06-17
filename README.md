@@ -89,7 +89,7 @@ Always open to learning and exploring new tech and creative avenues.
 
 <tr>
   <td></td>
-  <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" width="40"/></td>
   <td align="center"></td>
   <td align="center"><img src="https://img.shields.io/badge/Render-121212?logo=render&logoColor=white"/></td>
   <td align="center"><img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white"/></td>
