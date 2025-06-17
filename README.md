@@ -24,7 +24,7 @@ Always open to learning and exploring new tech and creative avenues.
 <hr>
 <p align="center">
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th><div align="center">Backend</div></th>
