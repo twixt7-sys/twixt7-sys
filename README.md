@@ -22,7 +22,6 @@ Always open to learning and exploring new tech and creative avenues.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=twixt7-sys&theme=tokyonight&hide_border=true" />
 </p>
 <hr>
-<p align="center">
 
 <table align="center">
   <thead>
@@ -94,7 +93,6 @@ Always open to learning and exploring new tech and creative avenues.
   </tbody>
 </table>
 
-</p>
 ---
 
 ### ⚙️ Current Projects:
