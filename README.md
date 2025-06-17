@@ -50,7 +50,7 @@ Always open to learning and exploring new tech and creative avenues.
 <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Godot-478cbf?logo=godotengine&logoColor=white"/></td>
+  <td align="center"></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></td>
@@ -60,7 +60,7 @@ Always open to learning and exploring new tech and creative avenues.
 <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Godot-478cbf?logo=godotengine&logoColor=white"/></td>
+  <td align="center"></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/></td>
@@ -70,7 +70,7 @@ Always open to learning and exploring new tech and creative avenues.
 <tr>
   <td></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Godot-478cbf?logo=godotengine&logoColor=white"/></td>
+  <td align="center"></td>
   <td align="center"><img src="https://img.shields.io/badge/Planetscale-000000?logo=planetscale&logoColor=white"/></td>
   <td align="center"><img src="https://img.shields.io/badge/Lightroom-31A8FF?logo=adobe%20lightroom&logoColor=white"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/></td>
@@ -80,7 +80,7 @@ Always open to learning and exploring new tech and creative avenues.
 <tr>
   <td></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Godot-478cbf?logo=godotengine&logoColor=white"/></td>
+  <td align="center"></td>
   <td align="center"><img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40"/></td>
@@ -90,7 +90,7 @@ Always open to learning and exploring new tech and creative avenues.
 <tr>
   <td></td>
   <td></td>
-  <td align="center"><img src="https://img.shields.io/badge/Godot-478cbf?logo=godotengine&logoColor=white"/></td>
+  <td align="center"></td>
   <td align="center"><img src="https://img.shields.io/badge/Render-121212?logo=render&logoColor=white"/></td>
   <td align="center"><img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white"/></td>
   <td></td>
