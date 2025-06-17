@@ -60,7 +60,7 @@ Always open to learning and exploring new tech and creative avenues.
 <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
-  <td align="center"></td>
+  <td align="center"><img src="https://img.shields.io/badge/Pygame-37626C?style=for-the-badge&logo=python&logoColor=white"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/></td>
