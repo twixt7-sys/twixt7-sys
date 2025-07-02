@@ -93,7 +93,7 @@ Always open to learning and exploring new tech and creative avenues.
   <td align="center"></td>
   <td align="center"><img src="https://img.shields.io/badge/Render-121212?logo=render&logoColor=white"/></td>
   <td align="center"><img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white"/></td>
-  <td></td>
+  <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
 </tr>
 
