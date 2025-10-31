@@ -68,7 +68,7 @@ Always open to learning and exploring new tech and creative avenues.
 </tr>
 
 <tr>
-  <td></td>
+  <td align="center"><img src="https://smtlabs.io/images/angularJS-shield.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></td>
   <td align="center"></td>
   <td align="center"><img src="https://img.shields.io/badge/Planetscale-000000?logo=planetscale&logoColor=white"/></td>
@@ -98,7 +98,7 @@ Always open to learning and exploring new tech and creative avenues.
 </tr>
 
 <tr>
-  <td align="center"><img src="https://smtlabs.io/images/angularJS-shield.svg" width="40"/></td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
