@@ -98,7 +98,7 @@ Always open to learning and exploring new tech and creative avenues.
 </tr>
 
 <tr>
-  <td></td>
+  <td align="center"><img src="https://smtlabs.io/images/angularJS-shield.svg" width="40"/></td>
   <td></td>
   <td></td>
   <td></td>
