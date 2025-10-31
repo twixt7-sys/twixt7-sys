@@ -18,7 +18,7 @@ Always open to learning and exploring new tech and creative avenues.
 
 <hr>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=twixt7-sys&theme=dark" alt="GitHub Streak" /></a>
+    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=twixt7-sys&theme=dark" height=175/>
 </p>
 <hr>
 <p align="center">
