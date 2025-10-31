@@ -17,9 +17,7 @@ Right now, I’m especially focused on:
 Always open to learning and exploring new tech and creative avenues.
 
 <hr>
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=twixt7-sys&theme=dark" height=175/>
-</p>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=twixt7-sys&theme=dark" alt="GitHub Streak" /></a>
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=twixt7-sys&theme=tokyonight&hide_border=true" height=175/>
