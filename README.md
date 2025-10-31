@@ -99,7 +99,7 @@ Always open to learning and exploring new tech and creative avenues.
 
 <tr>
   <td></td>
-  <td align="center"><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="40"/></td>
+  <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" width="40"/></td>
   <td></td>
   <td></td>
   <td></td>
