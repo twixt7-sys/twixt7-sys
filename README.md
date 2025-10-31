@@ -80,7 +80,7 @@ Always open to learning and exploring new tech and creative avenues.
 <tr>
   <td></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/></td>
-  <td align="center"></td>
+  <td align="center"><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="40"/></td>
   <td align="center"><img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40"/></td>
