@@ -123,8 +123,9 @@ Always open to learning and exploring new tech and creative avenues.
 ---
 
 ### ⚙️ Current Projects:
-    - A social media app using React Native + Flask backend
-    - A 2D hyper-casual indie game in Godot & Pygame
+    - A social media app using React Native + Flask backend (paused)
+    - A 2D hyper-casual indie game in Godot & Pygame (paused)
+    - A Fullstack Pet Supplies E-store excluding online payments
 
 ### 📖 Currently Enrolled in:
     - Bachelor of Science in Information Technology -- Legacy College of Compostela
