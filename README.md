@@ -11,7 +11,7 @@ Currently on a journey to build and refine my skill set across various disciplin
 Right now, I’m especially focused on:
 
 - Web Development  
-- Mobile Development  
+- Project Management  
 - UI Design
 
 Always open to learning and exploring new tech and creative avenues.
