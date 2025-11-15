@@ -128,6 +128,28 @@ Always open to learning and exploring new tech and creative avenues.
     - A 2D hyper-casual indie game in Godot & Pygame (paused)
     - A Fullstack Pet Supplies E-store excluding online payments
 
+<h1 align="center">Current Projects</h1>
+<table align="center">
+  <thead>
+    <tr>
+      <th><div align="center">Name</div></th>
+      <th><div align="center">Description</div></th>
+      <th><div align="center">Status</div></th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 ### 📖 Currently Enrolled in:
     - Bachelor of Science in Information Technology -- Legacy College of Compostela
     - CS50's Web Development in Python -- Harvard
