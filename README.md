@@ -151,6 +151,8 @@ Always open to learning and exploring new tech and creative avenues.
     </tbody>
 </table>
 
+---
+
 ### 📖 Currently Enrolled in:
     - Bachelor of Science in Information Technology -- Legacy College of Compostela
     - CS50's Web Development in Python -- Harvard
