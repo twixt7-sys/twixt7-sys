@@ -134,17 +134,17 @@ Always open to learning and exploring new tech and creative avenues.
   </thead>
     <tbody>
         <tr>
-            <td>ALAGA</td>
+            <td align="center">ALAGA</td>
             <td>A Fullstack Pet Supplies E-store excluding online payments</td>
             <td>🟢 active</td>
         </tr>
         <tr>
-            <td>Mini</td>
+            <td align="center">Mini</td>
             <td>A social media app using React Native + Flask backend</td>
             <td>⏸️ paused</td>
         </tr>
         <tr>
-            <td>JAIA</td>
+            <td align="center">JAIA</td>
             <td>A 2D hyper-casual indie game in Godot</td>
             <td>⏸️ paused</td>
         </tr>
