@@ -123,29 +123,30 @@ Always open to learning and exploring new tech and creative avenues.
 
 ---
 
-### ⚙️ Current Projects:
-    - A social media app using React Native + Flask backend (paused)
-    - A 2D hyper-casual indie game in Godot & Pygame (paused)
-    - A Fullstack Pet Supplies E-store excluding online payments
-
 <h1 align="center">Current Projects</h1>
 <table align="center">
   <thead>
     <tr>
-      <th><div align="center">Name</div></th>
+      <th><div align="center">Project</div></th>
       <th><div align="center">Description</div></th>
       <th><div align="center">Status</div></th>
     </tr>
   </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>ALAGA</td>
+            <td>A Fullstack Pet Supplies E-store excluding online payments</td>
+            <td>🟢 active</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Mini</td>
+            <td>A social media app using React Native + Flask backend</td>
+            <td>⏸️ paused</td>
         </tr>
         <tr>
-            <td></td>
+            <td>JAIA</td>
+            <td>A 2D hyper-casual indie game in Godot</td>
+            <td>⏸️ paused</td>
         </tr>
     </tbody>
 </table>
