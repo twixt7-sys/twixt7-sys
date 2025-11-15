@@ -23,6 +23,7 @@ Always open to learning and exploring new tech and creative avenues.
 </p>
 <hr>
 
+<h1 align="center">Tech Stack</h1>
 <table align="center">
   <thead>
     <tr>
