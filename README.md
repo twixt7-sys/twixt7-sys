@@ -16,7 +16,7 @@ Right now, I’m especially focused on:
 
 Always open to learning and exploring new tech and creative avenues.
 
-[![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/twixt7-sys)
+[![committers.top badge](https://user-badge.committers.top/philippines/twixt7-sys.svg)](https://user-badge.committers.top/philippines/twixt7-sys)
 
 <hr>
 <p align="center">
