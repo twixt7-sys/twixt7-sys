@@ -16,8 +16,6 @@ Right now, I’m especially focused on:
 
 Always open to learning and exploring new tech and creative avenues.
 
-[![committers.top badge](https://user-badge.committers.top/philippines/twixt7-sys.svg)](https://user-badge.committers.top/philippines/twixt7-sys)
-
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=twixt7-sys&theme=tokyonight&hide_border=true" height=175/>
