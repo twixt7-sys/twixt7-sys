@@ -2,7 +2,9 @@
 
 <hr>
 
-## 👤 Twixt Tamera   [ Male, 21 ]
+## 👤 Twixt Tamera   [ 21 ]
+
+<h6> he / him </h6>
 
     IT Student | Multimedia Artist | Aspiring Fullstack Developer
 <hr>
