@@ -4,7 +4,7 @@
 
 ## 👤 Twixt Tamera   [ 21 ]
     IT Student | Multimedia Artist | Aspiring Fullstack Developer
-<h6> he / him </h6>
+
 <hr>
 
 Currently on a journey to build and refine my skill set across various disciplines.  
