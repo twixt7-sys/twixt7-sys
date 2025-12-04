@@ -18,7 +18,7 @@ Always open to learning and exploring new tech and creative avenues.
 
 <hr>
 <p align="center">
-<img src="" height=175/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=twixt7-sys&theme=vue-dark&hide_border=true" height=175/>
 <img src="" height=175/>
 </p>
 <hr>
